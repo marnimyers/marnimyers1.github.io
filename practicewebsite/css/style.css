@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i|ZCOOL+XiaoWei');
+
+body {
+  color: black;
+  font-family: "Roboto", sans-sans-serif;
+  font-size: 12pt
+}
+h1 {
+  text-transform: capitalize;
+  text-align: center;
+  font-size: 50px;
+  font-family: "ZCOOL+XiaoWei";
+  background-color: gray;
+  margin:20px;
+  padding:20px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 22px;
+  font-weight: normal;
+  font-style: italic;
+  font-family:"Roboto", sans-serif;
+}
+
+h3 {
+  text-align: left;
+  font-size: 18px;
+  font-weight: bold;
+  }
+
+.sectionicon {
+  display: block;
+  width:100px;
+  align: left;
+  }
